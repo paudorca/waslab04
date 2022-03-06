@@ -1,1 +1,2510 @@
-
+{
+    "statuses": [
+        {
+            "created_at": "Sun Mar 06 11:28:36 +0000 2022",
+            "id": 1500433158084481024,
+            "id_str": "1500433158084481024",
+            "text": "@stm_messi هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "stm_messi",
+                        "name": "سطام",
+                        "id": 1355926219611648003,
+                        "id_str": "1355926219611648003",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ar",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1500388886178058242,
+            "in_reply_to_status_id_str": "1500388886178058242",
+            "in_reply_to_user_id": 1355926219611648003,
+            "in_reply_to_user_id_str": "1355926219611648003",
+            "in_reply_to_screen_name": "stm_messi",
+            "user": {
+                "id": 1319239280947044364,
+                "id_str": "1319239280947044364",
+                "name": "𝑀𝑈𝑆𝑇𝐴𝐹𝐴‏‎",
+                "screen_name": "v_b9n",
+                "location": "كرة القدم 🥺",
+                "description": "استغفر الله العظيم واتوب اليه | محرر اخباري✏برشلوني_ @moh_9980",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1394,
+                "friends_count": 195,
+                "listed_count": 1,
+                "created_at": "Thu Oct 22 11:29:38 +0000 2020",
+                "favourites_count": 11678,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 34658,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498818409710202882/B9vEO2CE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498818409710202882/B9vEO2CE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319239280947044364/1645021892",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ar"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:32 +0000 2022",
+            "id": 1500433141684748292,
+            "id_str": "1500433141684748292",
+            "text": "@_BeFoot Messi",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "_BeFoot",
+                        "name": "BeFoot",
+                        "id": 854342210,
+                        "id_str": "854342210",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1500235455484375041,
+            "in_reply_to_status_id_str": "1500235455484375041",
+            "in_reply_to_user_id": 854342210,
+            "in_reply_to_user_id_str": "854342210",
+            "in_reply_to_screen_name": "_BeFoot",
+            "user": {
+                "id": 1471668010704375812,
+                "id_str": "1471668010704375812",
+                "name": "Kabisko Condé",
+                "screen_name": "conde_kabisko",
+                "location": "",
+                "description": "Je suis célibataire âge de 23 ans",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11,
+                "friends_count": 247,
+                "listed_count": 0,
+                "created_at": "Fri Dec 17 02:26:48 +0000 2021",
+                "favourites_count": 34,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 62,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1471668437038645249/SoN0INV8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471668437038645249/SoN0INV8_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:31 +0000 2022",
+            "id": 1500433139730161667,
+            "id_str": "1500433139730161667",
+            "text": "RT @tokyo770001: On supporte le Barca ici on est supporter du Barca pas d’un joueur mdr on supporte pas LÉO MESSI MAIS LE BARCA psk j’ai l’…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "tokyo770001",
+                        "name": "pedri🇪🇸🎩✨",
+                        "id": 1089215545235435522,
+                        "id_str": "1089215545235435522",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 366059889,
+                "id_str": "366059889",
+                "name": "R2",
+                "screen_name": "r2u_dy",
+                "location": "",
+                "description": "🇨🇬",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 288,
+                "friends_count": 176,
+                "listed_count": 1,
+                "created_at": "Thu Sep 01 14:10:22 +0000 2011",
+                "favourites_count": 1433,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2705,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1487870316315561988/Fgm7O4Vb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487870316315561988/Fgm7O4Vb_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/366059889/1646438782",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Mar 05 21:03:26 +0000 2022",
+                "id": 1500215431864463369,
+                "id_str": "1500215431864463369",
+                "text": "On supporte le Barca ici on est supporter du Barca pas d’un joueur mdr on supporte pas LÉO MESSI MAIS LE BARCA psk… https://t.co/ZxyfczsqDd",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZxyfczsqDd",
+                            "expanded_url": "https://twitter.com/i/web/status/1500215431864463369",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1089215545235435522,
+                    "id_str": "1089215545235435522",
+                    "name": "pedri🇪🇸🎩✨",
+                    "screen_name": "tokyo770001",
+                    "location": "",
+                    "description": "Pedri futur meilleur milieu du Monde🎩💎👑\n\n@fcbarcelona\n\n🇩🇿🤍",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1520,
+                    "friends_count": 351,
+                    "listed_count": 1,
+                    "created_at": "Sat Jan 26 17:36:37 +0000 2019",
+                    "favourites_count": 42677,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 19508,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1492487383790628865/rU99VZ24_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492487383790628865/rU99VZ24_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089215545235435522/1643406298",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 165,
+                "favorite_count": 1378,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 165,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:30 +0000 2022",
+            "id": 1500433135892377606,
+            "id_str": "1500433135892377606",
+            "text": "@PhiloFoot_ @Gpasdinspi68 @TChogar @_BeFoot Mais WTF j’en ai vue des dinguerie mais là imagine t’as le meilleur jou… https://t.co/kseeg5mrZY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "PhiloFoot_",
+                        "name": "PhiloFoot 🧠⚽️",
+                        "id": 1383621895837274117,
+                        "id_str": "1383621895837274117",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "Gpasdinspi68",
+                        "name": "Aldente",
+                        "id": 1379785028893302784,
+                        "id_str": "1379785028893302784",
+                        "indices": [
+                            12,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "TChogar",
+                        "name": "Titi Chogar",
+                        "id": 1399160230584455169,
+                        "id_str": "1399160230584455169",
+                        "indices": [
+                            26,
+                            34
+                        ]
+                    },
+                    {
+                        "screen_name": "_BeFoot",
+                        "name": "BeFoot",
+                        "id": 854342210,
+                        "id_str": "854342210",
+                        "indices": [
+                            35,
+                            43
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/kseeg5mrZY",
+                        "expanded_url": "https://twitter.com/i/web/status/1500433135892377606",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1500428039804624896,
+            "in_reply_to_status_id_str": "1500428039804624896",
+            "in_reply_to_user_id": 1383621895837274117,
+            "in_reply_to_user_id_str": "1383621895837274117",
+            "in_reply_to_screen_name": "PhiloFoot_",
+            "user": {
+                "id": 1494260300136259585,
+                "id_str": "1494260300136259585",
+                "name": "lartisterr",
+                "screen_name": "Abdoulay3410",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 69,
+                "listed_count": 0,
+                "created_at": "Thu Feb 17 10:40:02 +0000 2022",
+                "favourites_count": 39,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 152,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1499193415162114049/7RNgmOUw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499193415162114049/7RNgmOUw_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:30 +0000 2022",
+            "id": 1500433133547753475,
+            "id_str": "1500433133547753475",
+            "text": "Nico Schulz hat Zweitliganiveau und die tun so, als hätte Bellingham dem Messi was erzählt. #dopa",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "dopa",
+                        "indices": [
+                            92,
+                            97
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1500187291578417155,
+                "id_str": "1500187291578417155",
+                "name": "Timo1887",
+                "screen_name": "tevee1887",
+                "location": "Hamburg, Deutschland",
+                "description": "HSV • Real Madrid • Chelsea FC",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 38,
+                "friends_count": 142,
+                "listed_count": 0,
+                "created_at": "Sat Mar 05 19:11:52 +0000 2022",
+                "favourites_count": 117,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1500187529789812736/7Zt0bn0O_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500187529789812736/7Zt0bn0O_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500187291578417155/1646509763",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "de"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:28 +0000 2022",
+            "id": 1500433126274777093,
+            "id_str": "1500433126274777093",
+            "text": "RT @charentonbeach: 9 buts à eux 3 en l1 pour Di Maria, Neymar et Messi c’est lunaire quand même",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "charentonbeach",
+                        "name": "charentonbeach",
+                        "id": 1007992784744271872,
+                        "id_str": "1007992784744271872",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4055286377,
+                "id_str": "4055286377",
+                "name": "C’est le S enculé",
+                "screen_name": "Chivaspsg",
+                "location": "Noisy-le-Grand, France",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 417,
+                "friends_count": 288,
+                "listed_count": 0,
+                "created_at": "Tue Oct 27 18:50:02 +0000 2015",
+                "favourites_count": 29060,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 20131,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1496068516880998403/67Yqt00a_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496068516880998403/67Yqt00a_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4055286377/1633295215",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 06 09:46:39 +0000 2022",
+                "id": 1500407501728190470,
+                "id_str": "1500407501728190470",
+                "text": "9 buts à eux 3 en l1 pour Di Maria, Neymar et Messi c’est lunaire quand même",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1007992784744271872,
+                    "id_str": "1007992784744271872",
+                    "name": "charentonbeach",
+                    "screen_name": "charentonbeach",
+                    "location": "",
+                    "description": "PSG et tout le reste",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2479,
+                    "friends_count": 805,
+                    "listed_count": 4,
+                    "created_at": "Sat Jun 16 14:26:22 +0000 2018",
+                    "favourites_count": 49776,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 55958,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1078562150883491840/OsB76X28_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078562150883491840/OsB76X28_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1007992784744271872/1545982485",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 17,
+                "favorite_count": 128,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:27 +0000 2022",
+            "id": 1500433122948952064,
+            "id_str": "1500433122948952064",
+            "text": "RT @cr7raprhymes: No Cristiano Ronaldo in Manchester United squad today\n\nNo Lionel Messi in PSG squad yesterday\n\nWe are coming close to the…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "cr7raprhymes",
+                        "name": "CR7 Rap Rhymes",
+                        "id": 1112077071071805442,
+                        "id_str": "1112077071071805442",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 974507771046477824,
+                "id_str": "974507771046477824",
+                "name": "aadiii_",
+                "screen_name": "aadiiii_11",
+                "location": "Mumbai, India",
+                "description": "@MoSalah and @LFC ❤️",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 37,
+                "friends_count": 85,
+                "listed_count": 1,
+                "created_at": "Fri Mar 16 04:48:52 +0000 2018",
+                "favourites_count": 34792,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7348,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1487312394968006656/KTrT7J3V_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487312394968006656/KTrT7J3V_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/974507771046477824/1646024083",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 06 09:55:19 +0000 2022",
+                "id": 1500409684200722434,
+                "id_str": "1500409684200722434",
+                "text": "No Cristiano Ronaldo in Manchester United squad today\n\nNo Lionel Messi in PSG squad yesterday\n\nWe are coming close… https://t.co/3RZZgSLLyE",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3RZZgSLLyE",
+                            "expanded_url": "https://twitter.com/i/web/status/1500409684200722434",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1112077071071805442,
+                    "id_str": "1112077071071805442",
+                    "name": "CR7 Rap Rhymes",
+                    "screen_name": "cr7raprhymes",
+                    "location": "",
+                    "description": "Ronaldo GOAT 🐐",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 40588,
+                    "friends_count": 585,
+                    "listed_count": 113,
+                    "created_at": "Sat Mar 30 19:40:09 +0000 2019",
+                    "favourites_count": 72232,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 11694,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1431608735886106630/Xe8lA17N_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1431608735886106630/Xe8lA17N_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112077071071805442/1619723867",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 127,
+                "favorite_count": 1409,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 127,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:27 +0000 2022",
+            "id": 1500433120201527296,
+            "id_str": "1500433120201527296",
+            "text": "RT @honBarcaFan7: @Lewandisneyy “LaLiga flop” Philipe coutinho now has more goals in the league than “Ballondor Winner” Messi despite movin…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "honBarcaFan7",
+                        "name": "Honest Barca Fan",
+                        "id": 1240298151669420032,
+                        "id_str": "1240298151669420032",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "Lewandisneyy",
+                        "name": "🇺🇾🦈™",
+                        "id": 1358831409251590144,
+                        "id_str": "1358831409251590144",
+                        "indices": [
+                            18,
+                            31
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1416612568651739136,
+                "id_str": "1416612568651739136",
+                "name": "Oldest Leader",
+                "screen_name": "LeaderOldest",
+                "location": "",
+                "description": "Factos 👀👍🏻",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 65,
+                "friends_count": 225,
+                "listed_count": 0,
+                "created_at": "Sun Jul 18 04:15:38 +0000 2021",
+                "favourites_count": 4752,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1682,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1495351660700487682/6KrIByPo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495351660700487682/6KrIByPo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416612568651739136/1645384090",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 06 10:21:06 +0000 2022",
+                "id": 1500416172411392001,
+                "id_str": "1500416172411392001",
+                "text": "@Lewandisneyy “LaLiga flop” Philipe coutinho now has more goals in the league than “Ballondor Winner” Messi despite… https://t.co/cr8YW2W4k6",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Lewandisneyy",
+                            "name": "🇺🇾🦈™",
+                            "id": 1358831409251590144,
+                            "id_str": "1358831409251590144",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/cr8YW2W4k6",
+                            "expanded_url": "https://twitter.com/i/web/status/1500416172411392001",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1500153597840936961,
+                "in_reply_to_status_id_str": "1500153597840936961",
+                "in_reply_to_user_id": 1358831409251590144,
+                "in_reply_to_user_id_str": "1358831409251590144",
+                "in_reply_to_screen_name": "Lewandisneyy",
+                "user": {
+                    "id": 1240298151669420032,
+                    "id_str": "1240298151669420032",
+                    "name": "Honest Barca Fan",
+                    "screen_name": "honBarcaFan7",
+                    "location": "",
+                    "description": "honesty is the best polisiuuuuuu",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 40,
+                    "friends_count": 45,
+                    "listed_count": 0,
+                    "created_at": "Wed Mar 18 15:25:07 +0000 2020",
+                    "favourites_count": 963,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1273,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1490855708434513921/4FOzOqHS_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490855708434513921/4FOzOqHS_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 5,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:26 +0000 2022",
+            "id": 1500433119127736322,
+            "id_str": "1500433119127736322",
+            "text": "RT @laissemoiptn: Thread sur le plus français des argentins, le plus fou des consultants et le plus grand fan de Messi : Omar Da Fonseca ht…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "laissemoiptn",
+                        "name": "Yann 🌪",
+                        "id": 1244302338342424576,
+                        "id_str": "1244302338342424576",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1419130367924125702,
+                "id_str": "1419130367924125702",
+                "name": "🃏",
+                "screen_name": "jzssm",
+                "location": "Lyon, France",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16,
+                "friends_count": 234,
+                "listed_count": 0,
+                "created_at": "Sun Jul 25 03:00:32 +0000 2021",
+                "favourites_count": 3455,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1359,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1483883404244434947/tZnbqUBu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483883404244434947/tZnbqUBu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1419130367924125702/1642620348",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Mar 05 14:53:45 +0000 2022",
+                "id": 1500122397353168897,
+                "id_str": "1500122397353168897",
+                "text": "Thread sur le plus français des argentins, le plus fou des consultants et le plus grand fan de Messi : Omar Da Fons… https://t.co/xktGqRNs6g",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/xktGqRNs6g",
+                            "expanded_url": "https://twitter.com/i/web/status/1500122397353168897",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1244302338342424576,
+                    "id_str": "1244302338342424576",
+                    "name": "Yann 🌪",
+                    "screen_name": "laissemoiptn",
+                    "location": "Martinique / 91",
+                    "description": "threadman. Olympique de Marseille, Cristiano, Payet, Kamara (reste stp), Ocampos, Haaland, Bellingham /@laissemoipitie",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1377,
+                    "friends_count": 493,
+                    "listed_count": 12,
+                    "created_at": "Sun Mar 29 16:36:18 +0000 2020",
+                    "favourites_count": 19743,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 54174,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1491796220548841482/Kuw12oa6_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491796220548841482/Kuw12oa6_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244302338342424576/1638053353",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1676,
+                "favorite_count": 8198,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1676,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:25 +0000 2022",
+            "id": 1500433112228061188,
+            "id_str": "1500433112228061188",
+            "text": "@AresBet2022 #Fenerbahçe\n#Trabzonspor\n\n Versace700\n 1-2\n\n#DolarTL #Messi\n#S400\n@Jaggernout4\n@Palz61… https://t.co/PlfmLxn0Xa",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Fenerbahçe",
+                        "indices": [
+                            13,
+                            24
+                        ]
+                    },
+                    {
+                        "text": "Trabzonspor",
+                        "indices": [
+                            25,
+                            37
+                        ]
+                    },
+                    {
+                        "text": "DolarTL",
+                        "indices": [
+                            57,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "Messi",
+                        "indices": [
+                            66,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "S400",
+                        "indices": [
+                            73,
+                            78
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AresBet2022",
+                        "name": "Aresbet 🇺🇦",
+                        "id": 1493527745007165441,
+                        "id_str": "1493527745007165441",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "Jaggernout4",
+                        "name": "Jaggernout",
+                        "id": 1430469827295072258,
+                        "id_str": "1430469827295072258",
+                        "indices": [
+                            79,
+                            91
+                        ]
+                    },
+                    {
+                        "screen_name": "Palz61",
+                        "name": "Ts",
+                        "id": 1214481271767928832,
+                        "id_str": "1214481271767928832",
+                        "indices": [
+                            92,
+                            99
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/PlfmLxn0Xa",
+                        "expanded_url": "https://twitter.com/i/web/status/1500433112228061188",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            101,
+                            124
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1500395762257063938,
+            "in_reply_to_status_id_str": "1500395762257063938",
+            "in_reply_to_user_id": 1493527745007165441,
+            "in_reply_to_user_id_str": "1493527745007165441",
+            "in_reply_to_screen_name": "AresBet2022",
+            "user": {
+                "id": 1412386489716166664,
+                "id_str": "1412386489716166664",
+                "name": "versace700",
+                "screen_name": "ungorversace700",
+                "location": "",
+                "description": "Sakin",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 13,
+                "friends_count": 77,
+                "listed_count": 0,
+                "created_at": "Tue Jul 06 12:22:51 +0000 2021",
+                "favourites_count": 280,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 429,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412386711779303429/PLSS1uMh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412386711779303429/PLSS1uMh_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:23 +0000 2022",
+            "id": 1500433105701814274,
+            "id_str": "1500433105701814274",
+            "text": "RT @flowerfornam: cioè loro si sono messi d'accordo per iniziare la live, salutare tutti insieme e poi chiudere subito dopo per ridere come…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "flowerfornam",
+                        "name": "eva⁷",
+                        "id": 1397844188964786178,
+                        "id_str": "1397844188964786178",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "it",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1369592180885557248,
+                "id_str": "1369592180885557248",
+                "name": "erica🦁",
+                "screen_name": "ery_kook",
+                "location": "",
+                "description": "📍Italy she/her",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17,
+                "friends_count": 193,
+                "listed_count": 0,
+                "created_at": "Wed Mar 10 10:14:56 +0000 2021",
+                "favourites_count": 13918,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8621,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1369592725935427585/tjyDmDL0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369592725935427585/tjyDmDL0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369592180885557248/1642611797",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Mar 06 09:51:55 +0000 2022",
+                "id": 1500408828625629185,
+                "id_str": "1500408828625629185",
+                "text": "cioè loro si sono messi d'accordo per iniziare la live, salutare tutti insieme e poi chiudere subito dopo per rider… https://t.co/ML6SRxSeNv",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ML6SRxSeNv",
+                            "expanded_url": "https://twitter.com/i/web/status/1500408828625629185",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "it",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1397844188964786178,
+                    "id_str": "1397844188964786178",
+                    "name": "eva⁷",
+                    "screen_name": "flowerfornam",
+                    "location": "전 정국: when ARMYs are tired, emotionally exhausted and having a rough time, they can draw a door within their hearts and come inside, and we're there",
+                    "description": "#NAMJOON: let's think about each other looking at the sky sometimes ♡ SHE!HER",
+                    "url": "https://t.co/C3K7WaCSZc",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/C3K7WaCSZc",
+                                    "expanded_url": "http://www.bangtan.xn--3-cjn",
+                                    "display_url": "bangtan.‹3",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 470,
+                    "friends_count": 267,
+                    "listed_count": 51,
+                    "created_at": "Thu May 27 09:17:42 +0000 2021",
+                    "favourites_count": 173783,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 65926,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1494722519005282304/b_BxoOLs_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494722519005282304/b_BxoOLs_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397844188964786178/1645204612",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 76,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "it"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "it"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:23 +0000 2022",
+            "id": 1500433102878957571,
+            "id_str": "1500433102878957571",
+            "text": "@stm_messi هههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههههه",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "stm_messi",
+                        "name": "سطام",
+                        "id": 1355926219611648003,
+                        "id_str": "1355926219611648003",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "ar",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1500317840406196234,
+            "in_reply_to_status_id_str": "1500317840406196234",
+            "in_reply_to_user_id": 1355926219611648003,
+            "in_reply_to_user_id_str": "1355926219611648003",
+            "in_reply_to_screen_name": "stm_messi",
+            "user": {
+                "id": 1319239280947044364,
+                "id_str": "1319239280947044364",
+                "name": "𝑀𝑈𝑆𝑇𝐴𝐹𝐴‏‎",
+                "screen_name": "v_b9n",
+                "location": "كرة القدم 🥺",
+                "description": "استغفر الله العظيم واتوب اليه | محرر اخباري✏برشلوني_ @moh_9980",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1394,
+                "friends_count": 195,
+                "listed_count": 1,
+                "created_at": "Thu Oct 22 11:29:38 +0000 2020",
+                "favourites_count": 11678,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 34658,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498818409710202882/B9vEO2CE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498818409710202882/B9vEO2CE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319239280947044364/1645021892",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "ar"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:21 +0000 2022",
+            "id": 1500433094934994944,
+            "id_str": "1500433094934994944",
+            "text": "Lionel Messi. #HollywoodbetsDiskiSpina @Yfm https://t.co/PVsIg6u3Hb https://t.co/U5PMWsgSHF",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "HollywoodbetsDiskiSpina",
+                        "indices": [
+                            14,
+                            38
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Yfm",
+                        "name": "Y",
+                        "id": 89282799,
+                        "id_str": "89282799",
+                        "indices": [
+                            39,
+                            43
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/PVsIg6u3Hb",
+                        "expanded_url": "https://twitter.com/Yfm/status/1499749288049532930",
+                        "display_url": "twitter.com/Yfm/status/149…",
+                        "indices": [
+                            44,
+                            67
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1500433085820813312,
+                        "id_str": "1500433085820813312",
+                        "indices": [
+                            68,
+                            91
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNKb8SGXwAAShxv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNKb8SGXwAAShxv.jpg",
+                        "url": "https://t.co/U5PMWsgSHF",
+                        "display_url": "pic.twitter.com/U5PMWsgSHF",
+                        "expanded_url": "https://twitter.com/KinkyAfro_ZA/status/1500433094934994944/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 250,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 500,
+                                "h": 250,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 250,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1500433085820813312,
+                        "id_str": "1500433085820813312",
+                        "indices": [
+                            68,
+                            91
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNKb8SGXwAAShxv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNKb8SGXwAAShxv.jpg",
+                        "url": "https://t.co/U5PMWsgSHF",
+                        "display_url": "pic.twitter.com/U5PMWsgSHF",
+                        "expanded_url": "https://twitter.com/KinkyAfro_ZA/status/1500433094934994944/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 500,
+                                "h": 250,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 500,
+                                "h": 250,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 500,
+                                "h": 250,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                2,
+                                1
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/FNKb8SGXwAAShxv.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "it",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3015216094,
+                "id_str": "3015216094",
+                "name": "KinkyAfro_cpt",
+                "screen_name": "KinkyAfro_ZA",
+                "location": "Cape Town, South Africa",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 174,
+                "friends_count": 844,
+                "listed_count": 0,
+                "created_at": "Tue Feb 03 19:53:23 +0000 2015",
+                "favourites_count": 9312,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17957,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1201864902929002497/6SQ55wvy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201864902929002497/6SQ55wvy_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3015216094/1517340515",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1499749288049532930,
+            "quoted_status_id_str": "1499749288049532930",
+            "quoted_status": {
+                "created_at": "Fri Mar 04 14:11:08 +0000 2022",
+                "id": 1499749288049532930,
+                "id_str": "1499749288049532930",
+                "text": "Are you a soccer fanatic? ⚽ Here's you chance to win a share of R30000 with @Hollywoodbets.\n\nTo enter all you have… https://t.co/XCGAlKvtwr",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Hollywoodbets",
+                            "name": "Hollywoodbets",
+                            "id": 80000336,
+                            "id_str": "80000336",
+                            "indices": [
+                                76,
+                                90
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/XCGAlKvtwr",
+                            "expanded_url": "https://twitter.com/i/web/status/1499749288049532930",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "it",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">Agorapulse app</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 89282799,
+                    "id_str": "89282799",
+                    "name": "Y",
+                    "screen_name": "Yfm",
+                    "location": "Gauteng",
+                    "description": "99.2FM and worldwide on the YFM app and https://t.co/iEAzIFRgE3",
+                    "url": "https://t.co/C3tl8qRaG4",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/C3tl8qRaG4",
+                                    "expanded_url": "http://www.yfm.co.za",
+                                    "display_url": "yfm.co.za",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/iEAzIFRgE3",
+                                    "expanded_url": "http://yfm.co.za",
+                                    "display_url": "yfm.co.za",
+                                    "indices": [
+                                        40,
+                                        63
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1279515,
+                    "friends_count": 33777,
+                    "listed_count": 1008,
+                    "created_at": "Wed Nov 11 21:10:23 +0000 2009",
+                    "favourites_count": 16423,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 441392,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1453071006810189826/IF_uaByN_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1453071006810189826/IF_uaByN_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/89282799/1635274114",
+                    "profile_link_color": "B30707",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "FFFFFF",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 41,
+                "favorite_count": 105,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "it"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:20 +0000 2022",
+            "id": 1500433090313097217,
+            "id_str": "1500433090313097217",
+            "text": "RT @AlbicelesteTalk: 🎥 This how Messi was received for his first official visit at La Bombonera. Complete madness Boca fans are crazy 🔥 \n\nY…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AlbicelesteTalk",
+                        "name": "All About Argentina 🛎🇦🇷",
+                        "id": 1447233497731674117,
+                        "id_str": "1447233497731674117",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 134814612,
+                "id_str": "134814612",
+                "name": "Gabriel Lucchesi",
+                "screen_name": "gabriellucchesi",
+                "location": "Buenos Aires, Argentina",
+                "description": "Contador y Lic. en Administración (UBA). Docente en UBA. Maestría INTERNACIONAL de Marketing (UdeSA-ESCP). Emprendedor, fanático de Boca y el Marketing!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 465,
+                "friends_count": 651,
+                "listed_count": 28,
+                "created_at": "Mon Apr 19 14:32:38 +0000 2010",
+                "favourites_count": 7190,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6056,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/563878011704188928/T3-593gi_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/563878011704188928/T3-593gi_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Mar 05 12:56:35 +0000 2022",
+                "id": 1500092913874874370,
+                "id_str": "1500092913874874370",
+                "text": "🎥 This how Messi was received for his first official visit at La Bombonera. Complete madness Boca fans are crazy 🔥… https://t.co/HqefjiWtOP",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/HqefjiWtOP",
+                            "expanded_url": "https://twitter.com/i/web/status/1500092913874874370",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1447233497731674117,
+                    "id_str": "1447233497731674117",
+                    "name": "All About Argentina 🛎🇦🇷",
+                    "screen_name": "AlbicelesteTalk",
+                    "location": "",
+                    "description": "Posting about 🇦🇷 who have been the 15x Champions of Copa America, 2x Champions of World Cup and the only country who has the 2 greatest players of all time.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 7029,
+                    "friends_count": 988,
+                    "listed_count": 29,
+                    "created_at": "Sun Oct 10 16:12:15 +0000 2021",
+                    "favourites_count": 13930,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 3687,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1458225631431479302/FFX5dFC7_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458225631431479302/FFX5dFC7_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447233497731674117/1633883129",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 339,
+                "favorite_count": 2267,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 339,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Mar 06 11:28:20 +0000 2022",
+            "id": 1500433090174455813,
+            "id_str": "1500433090174455813",
+            "text": "RT @ZemalGOAT16: Ronaldo à conquis l'Espagne ? (2009-2018).\n\n🏟                                  Cr7  /  Messi \nMeilleur buteurs ⚽️.     3×…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ZemalGOAT16",
+                        "name": "Messiah Yaniss 🇨🇵🇩🇿",
+                        "id": 1408770819677884417,
+                        "id_str": "1408770819677884417",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 289997735,
+                "id_str": "289997735",
+                "name": "Kartoon",
+                "screen_name": "KartoonRa",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 15,
+                "friends_count": 54,
+                "listed_count": 0,
+                "created_at": "Fri Apr 29 15:41:24 +0000 2011",
+                "favourites_count": 7587,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1305,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1305258900262969346/JBDj0BVp_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305258900262969346/JBDj0BVp_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Mar 05 15:30:40 +0000 2022",
+                "id": 1500131689640734722,
+                "id_str": "1500131689640734722",
+                "text": "Ronaldo à conquis l'Espagne ? (2009-2018).\n\n🏟                                  Cr7  /  Messi \nMeilleur buteurs ⚽️.… https://t.co/xt2CXWv5dQ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/xt2CXWv5dQ",
+                            "expanded_url": "https://twitter.com/i/web/status/1500131689640734722",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1408770819677884417,
+                    "id_str": "1408770819677884417",
+                    "name": "Messiah Yaniss 🇨🇵🇩🇿",
+                    "screen_name": "ZemalGOAT16",
+                    "location": "Mbappé prolonge par pitié.",
+                    "description": "Légende de Mediavenir et d'Actufoot.\nMessi est le GOAT. Le PSG est le plus grand club français. Chaîne YouTube de mon petit frere : Destiny Marouan.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2069,
+                    "friends_count": 251,
+                    "listed_count": 10,
+                    "created_at": "Sat Jun 26 12:55:19 +0000 2021",
+                    "favourites_count": 5982,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 7852,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1424899989466144770/oU4N7yoh_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424899989466144770/oU4N7yoh_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408770819677884417/1645561611",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 50,
+                "favorite_count": 272,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 50,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.061,
+        "max_id": 1500433158084481024,
+        "max_id_str": "1500433158084481024",
+        "next_results": "?max_id=1500433090174455812&q=Messi&include_entities=1",
+        "query": "Messi",
+        "refresh_url": "?since_id=1500433158084481024&q=Messi&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
