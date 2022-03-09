@@ -3,30 +3,60 @@ package twitter;
 import java.util.Date;
 import java.util.List;
 
+import twitter4j.FilterQuery;
 import twitter4j.Paging;
+import twitter4j.StallWarning;
 import twitter4j.Status;
+import twitter4j.StatusAdapter;
+import twitter4j.StatusDeletionNotice;
+import twitter4j.StatusListener;
 import twitter4j.Twitter;
 import twitter4j.TwitterFactory;
+import twitter4j.TwitterStream;
+import twitter4j.TwitterStreamFactory;
 
 public class SimpleClient {
 
 	public static void main(String[] args) throws Exception {
 		
-		final Twitter twitter = new TwitterFactory().getInstance();
-		
-		Date now = new Date();
-		String latestStatus = "Hey @fib_was, we've just completed task #4 [timestamp: "+now+"]";
-		Status status = twitter.updateStatus(latestStatus);
-		System.out.println("Successfully updated the status to: " + status.getText()); 
-		Paging paging = new Paging(1, 100);
-		List<Status> statuses = twitter.getUserTimeline("fib_was",paging);
-		Status status1 = null; 
-		Status status2 = null; 
-		for (int i = 0; i < statuses.size(); i++) {
-			   status1 = statuses.get(i);
-			   if (i == 0) status2 = status1; 
-		       System.out.printf(status1.getText());
-		     }
-		twitter.retweetStatus(status2.getId()); 
+		GetTweetStreamForKeywords(); 
 	}
+	
+	private static void GetTweetStreamForKeywords()
+	   {
+	   TwitterStream twitterStream = new TwitterStreamFactory().getInstance();
+	   StatusListener statusListener = new StatusAdapter() {
+	    @Override
+	    public void onStatus(Status status) {
+	     
+	       System.out.println(status.getUser().getName()  + "(" + status.getUser().getScreenName() + ")" + " : " + status.getText() );
+
+	    }
+	       @Override
+	       public void onDeletionNotice(StatusDeletionNotice sdn) {
+	         throw new UnsupportedOperationException("Not supported yet."); 
+	       }
+	       @Override
+	       public void onTrackLimitationNotice(int i) {
+	         throw new UnsupportedOperationException("Not supported yet."); 
+	       }
+	       @Override
+	       public void onScrubGeo(long l, long l1) {
+	         throw new UnsupportedOperationException("Not supported yet."); 
+	       }
+	       @Override
+	       public void onStallWarning(StallWarning sw) {
+	         throw new UnsupportedOperationException("Not supported yet.");
+	       }
+	     };
+
+
+	     FilterQuery fq = new FilterQuery();        
+	     String keywords[] = {"#covid19"};
+	     fq.track(keywords);
+
+	        
+	     twitterStream.addListener(statusListener);
+	     twitterStream.filter(fq);          
+	  }
 }
